@@ -1,13 +1,22 @@
-# skill-collection
-Sales Operations Toolkit
+Sales Assistant 快速使用說明
 
-Modern sales teams face a recurring problem: scattered workflows, manual data entry, 
-and repetitive tasks that eat into quota-carrying time. This collection solves that.
+安裝（3 步）
 
-Each tool in this repository was built to address a real sales operations challenge—
-from pipeline hygiene and prospect research to call preparation and forecasting. 
-They're designed for sales professionals who understand that efficiency isn't a luxury; 
-it's the foundation of predictable revenue.
+拿到 sales-assistant.plugin 檔
+在 Claude Cowork 開啟 → 點「安裝」
+完成，8 個工具立即可用
+首次設定（各自做一次）
+連 Gmail、連 Google Calendar、掛載你的客戶資料夾；第一次寫信時填自己的署名。
 
-Whether you're optimizing your own workflow or scaling processes across a team, 
-you'll find practical, battle-tested tools that integrate seamlessly into your existing stack.
+怎麼用——直接用中文講你要做的事就好：
+
+你說	它幫你做
+「幫我準備拜訪 X 公司」	拜訪前客戶分析
+「整理客戶資料」／貼上筆記	客戶資料卡
+「做會議紀錄」＋音檔	會議紀錄併入資料卡
+「把這段補到 X」	更新客戶資料卡
+「幫我寫信給 X」	客戶 Email 草稿
+「我想約 X 開會」	邀約信／Gmail 草稿
+「幫我做 MOU 給 X」	合作意向書
+「寫工作日誌」	當日工作日誌
+流程：會議前準備 → 會議後紀錄 → 跟進發信/MOU → 每日回報。
